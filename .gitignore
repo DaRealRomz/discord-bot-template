@@ -1,0 +1,13 @@
+# NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Secrets
+.env
+
+# Build
+lib/
+
+# OSX
+.DS_Store
